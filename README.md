@@ -19,7 +19,7 @@
 
 <!-- ==================== 1. BANNER UTAMA ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=250&color=0:0d0b1e,50:3b2a6e,100:b8a9ff&text=Vinnaryaww&fontSize=68&fontColor=e8e6ff&fontAlignY=38&desc=Lullaby%20of%20Code%20-%20Moonlit%20Developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Banner Arvin" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=250&color=0:0d0b1e,50:3b2a6e,100:b8a9ff&text=Vinnaryaww&fontSize=68&fontColor=e8e6ff&fontAlignY=38&desc=Calm%20When%20Coding%20-%20SMKIT%20Assyifa&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Banner" />
 </p>
 
 <p align="center">
