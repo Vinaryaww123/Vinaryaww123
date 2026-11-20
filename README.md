@@ -28,7 +28,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vinaryaww123&color=b8a9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azZnMXkyenI1dzd4Nmlqam4xaGhvcmp6OHRiOHpuandodml6eDEzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xExYEE09A3bMgOmO3V/giphy.gif" alt="whats" />
 </p>
 
 <!--
